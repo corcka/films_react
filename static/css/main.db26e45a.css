@@ -1,0 +1,2 @@
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:Press Start\ 2P,cursive;margin:0}.content{min-height:calc(100vh - 134px)}.movies{grid-gap:1rem;display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}.search-btn{position:absolute;right:.5rem;top:0}label:not(:last-child){margin-right:1rem}h4{color:#00b2a3}h3{color:#fff}body{background:#fffef7}.movie{background:#b1dcd8;box-shadow:6px 10px 0 #4db6ac}.progress{display:flex;height:100px;justify-content:center}
+/*# sourceMappingURL=main.db26e45a.css.map*/
